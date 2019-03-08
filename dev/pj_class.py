@@ -42,4 +42,4 @@ x = np.linspace(0, 100, num=50)
 x = x * np.pi
 
 test = SinePlot(x, 5)
-#test.mkFig()
+test.mkFig()
